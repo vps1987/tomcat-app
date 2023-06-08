@@ -4,6 +4,6 @@
 <title>  My WebApp page here..</title>
 </head>
 <body>
-	<h2>We are building pipeline using YAML, deploying MyWebApp into Azure App services/WebApp!!!! </h2>
+	<h2>After 2 days tomcat war application deployed</h2>
 </body>
 </html>
